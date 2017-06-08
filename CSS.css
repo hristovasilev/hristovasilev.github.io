@@ -40,6 +40,13 @@ main div{
     padding: 0.1px;
     height: 25px;   
     
+}
+
+.bigbutton{
+    border: 1px solid black;
+    width: 90px;
+    padding: 0.1px;
+    height: 40px;   
     
 }
 
